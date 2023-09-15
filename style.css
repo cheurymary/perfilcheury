@@ -92,3 +92,9 @@ td, th {
     color: white;
   }
 
+  .class {
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: auto;
+  }
