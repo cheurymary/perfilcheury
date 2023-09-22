@@ -98,3 +98,10 @@ td, th {
     border: 25px solid navy;
     margin: auto;
   }
+
+  .outro {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid navy;
+    margin: auto;
+  }
